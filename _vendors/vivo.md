@@ -1,9 +1,9 @@
 ---
-name: Vivo
+name: Vivo V2027
 manufacturer:
   - vivo
-award: 3
-position: 10
+award: 11
+position: 11
 redirect_from: /vendors/vivo.html
 explanation: "
 System restrictions on Vivo phones have not been fully uncovered yet. If you have any additional information, please let us know.<br>
